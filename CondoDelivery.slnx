@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/CondoDelivery.Api/CondoDelivery.Api.csproj" />
+    <Project Path="src/CondoDelivery.Application/CondoDelivery.Application.csproj" />
+    <Project Path="src/CondoDelivery.Domain/CondoDelivery.Domain.csproj" />
+    <Project Path="src/CondoDelivery.Infrastructure/CondoDelivery.Infrastructure.csproj" />
   </Folder>
 </Solution>
