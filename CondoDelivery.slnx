@@ -5,4 +5,7 @@
     <Project Path="src/CondoDelivery.Domain/CondoDelivery.Domain.csproj" />
     <Project Path="src/CondoDelivery.Infrastructure/CondoDelivery.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CondoDelivery.Domain.Tests/CondoDelivery.Domain.Tests.csproj" />
+  </Folder>
 </Solution>
